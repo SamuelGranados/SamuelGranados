@@ -1,7 +1,6 @@
 Olá, Eu sou Samuel Granados! 👋
 
--Estudante de Analise e Desenvolvimento de Sistemas! 🎓
--Estudando SQL, CSS, PHP, RESPONSIVIDADE, INGLÊS! 🌱 
+-Estudante: Engenharia de Software com foco em desenvolvimento web 
 -Pronouns: Ele-dele. 😄
 
 

@@ -4,6 +4,10 @@ Sou Samuel, um entusiasta de tecnologia e aspirante a desenvolvedor. Tenho uma p
 
 Além de programar, tenho uma imensa curiosidade pelo empreendedorismo e adoro investigar o sucesso e crescimento de organizações e empresas.
 
+<p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+</p>
+
 - 🔭 Atualmente, estou me aprofundando em linguagens de programação como React e JavaScript.
 - 🌱 Atualmente, estou aprendendo sobre desenvolvimento web e criação de aplicativos móveis.
 - 👯 Estou procurando colaborar em projetos de código aberto.

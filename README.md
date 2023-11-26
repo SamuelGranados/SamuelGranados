@@ -40,6 +40,3 @@ Além de programar, tenho uma imensa curiosidade pelo empreendedorismo e adoro i
 </div>
 
 
-![Snake animation](https://github.com/SamuelGranados/blob/output/github-contribution-grid-snake.svg)
-
-
